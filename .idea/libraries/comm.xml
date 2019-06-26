@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="comm">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/commapi/comm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
